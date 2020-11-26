@@ -15,7 +15,7 @@
 
     <v-text-field
       class="ml-10 mb-0 align-end" 
-      label="Pesquisar..."
+      label="PROCURA AE..."
       append-icon="mdi-magnify"
       with="50"
       hide-details 
